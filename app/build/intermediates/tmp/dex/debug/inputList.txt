@@ -1,0 +1,5 @@
+C:\dev\GetGPSLoc\app\build\intermediates\classes\debug
+C:\dev\GetGPSLoc\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-e90b157b84f298c396cb7a9bd3de814914f39e96.jar
+C:\dev\GetGPSLoc\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-fb9cd971ca3da41430c2767158c68e8322ddc0cc.jar
+C:\dev\GetGPSLoc\app\build\intermediates\pre-dexed\debug\classes-1dffc7778eae5fa174f3d16eb5483675a0356daa.jar
+C:\dev\GetGPSLoc\app\build\intermediates\pre-dexed\debug\classes-9e192d9b0dd6071ff57f323320aa259086d37dd3.jar

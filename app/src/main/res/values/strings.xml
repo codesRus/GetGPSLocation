@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GetGPSLocation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About app</string>
+    <string name="action_map">Map it</string>
+    <string name="btn_getLocation">Get Location</string>
+</resources>
